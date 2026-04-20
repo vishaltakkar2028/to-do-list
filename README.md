@@ -23,5 +23,3 @@ A simple and interactive **To-Do List Application** built using **HTML, CSS, and
 - **JavaScript (Vanilla JS)** – Functionality and logic  
 
 ---
-
-## 📁 Project Structure
